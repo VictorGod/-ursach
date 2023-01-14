@@ -1,0 +1,88 @@
+{
+  "place": [
+      {
+        "id":1,
+        "image":"preview.jpg",
+        "address":"Ул. Комсомольская 25",
+        "floor":5,
+        "table":4,
+        "square":3,
+        "price":1000,
+        "undeground":"Печатники",
+        "bio":"good"
+
+      },
+      {
+        "id":2,
+        "image":"preview.jpg",
+        "address":"Ленина 64",
+        "floor":5,
+        "table":4,
+        "square":3,
+        "price":2000,
+        "undeground":"Люблино",
+        "bio":"good"
+
+      },
+      {
+        "id":3,
+        "image":"preview.jpg",
+        "address":"Иванниково 78",
+        "floor":5,
+        "table":4,
+        "square":3,
+        "price":2500,
+        "undeground":"Печатники",
+        "bio":"good"
+
+      },
+      {
+        "id":4,
+        "image":"preview.jpg",
+        "address":"Ленина 86",
+        "floor":5,
+        "table":4,
+        "square":3,
+        "price":3000,
+        "undeground":"Люблино",
+        "bio":"good"
+
+      },
+      { 
+        "id":5,
+        "image":"preview.jpg",
+        "address":"Кирово 32",
+        "floor":5,
+        "table":4,
+        "square":3,
+        "price":3500,
+        "undeground":"Люблино",
+        "bio":"good"
+      },
+      {
+        "id":6,
+        "image":"preview.jpg",
+        "address":"Володино 85",
+        "floor":5,
+        "table":4,
+        "square":3,
+        "price":3550,
+        "undeground":"Печатники",
+        "bio":"good"
+      }
+    
+      
+    ],
+    "rents":{
+      "start_data":"22-10-2022",
+      "end_data":"22-10-2022",
+      "client_email":"sav@mail.com"
+      
+      
+
+    } 
+
+    
+
+  
+  }
