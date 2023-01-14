@@ -23,7 +23,7 @@ class  UserViewset(ModelViewSet):
 
     @action (methods=['POST'],detail= False,url_path="login")
     def login(self,request):
-        if 'email' not in request.data:
+        if 'email' not in request.data: 
             raise ValidationError({'error':'email must not be empty'})
             
         if 'password' not in request.data:
